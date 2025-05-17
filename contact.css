@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(1, 24, 105);
+    color:white;
+    padding: 1rem;
+    text-align: center;
+}
+script{
+    color: #000000;
+    text-align: center;
+    padding: 1rem;
+}
+footer{
+    text-align:center;
+    color: #870639;
+}
+table{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
